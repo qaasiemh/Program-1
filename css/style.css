@@ -1,0 +1,51 @@
+body {
+    margin: 0 auto;
+    width: 280px;
+}
+
+.random {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    margin-bottom: 15px;
+    display: inline-block;
+    border: 3px solid black;
+    border-radius: 10px;
+    font-size: 90px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+section {
+    width: 236px;
+    margin: 0 auto;
+}
+
+body button {
+    padding: 10px 99px;
+    margin-left: 5px;
+    background-color: cadetblue;
+    border: none;
+    
+    font-size: 16px;
+}
+
+body button:hover {
+    background-color: #368789;
+}
+
+.answer {
+    width: 226px;
+    height: 200px;
+    margin-left: 5px;
+    font-size: 18px;
+    margin-top: 15px;
+    text-align: center;
+}
